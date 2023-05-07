@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testes de Integração CENÁRIO 01 1`] = `
+Object {
+  "juros": 0.025,
+  "montante": 106.9,
+  "parcelas": 3,
+  "prestacoes": Array [
+    35.64,
+    35.63,
+    35.63,
+  ],
+  "primeiraPrestacao": 35.64,
+}
+`;
+
+exports[`Testes de Integração CENÁRIO 02 1`] = `
+Object {
+  "juros": 0.025,
+  "montante": 106.9,
+  "parcelas": 3,
+  "prestacoes": Array [
+    35.64,
+    35.63,
+    35.63,
+  ],
+  "primeiraPrestacao": 35.64,
+}
+`;
+
+exports[`Testes de Integração CENÁRIO 03 1`] = `
+Object {
+  "juros": 0.025,
+  "montante": 106.9,
+  "parcelas": 3,
+  "prestacoes": Array [
+    35.64,
+    35.63,
+    35.63,
+  ],
+  "primeiraPrestacao": 35.64,
+}
+`;
+
+exports[`Testes de Integração TPM4 1`] = `
+Array [
+  Object {
+    "CPF": "000.000.000-00",
+    "Nome": "João Silva",
+    "createdAt": "2023-05-02T15:22:30.502Z",
+    "updatedAt": "2023-05-02T15:22:30.502Z",
+  },
+  Object {
+    "CPF": "000.000.000-01",
+    "Nome": "João Silva 1",
+    "createdAt": "2023-05-02T15:22:30.503Z",
+    "updatedAt": "2023-05-02T15:22:30.503Z",
+  },
+  Object {
+    "CPF": "000.000.000-02",
+    "Nome": "João Silva 2",
+    "createdAt": "2023-05-02T15:22:30.505Z",
+    "updatedAt": "2023-05-02T15:22:30.505Z",
+  },
+]
+`;
